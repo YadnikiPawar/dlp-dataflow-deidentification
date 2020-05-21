@@ -1,0 +1,24 @@
+[ 
+  {
+      "mode":"NULLABLE",
+      "name":"source_file",
+      "type":"STRING"
+   },
+   {
+      "mode":"NULLABLE",
+      "name":"transaction_time",
+      "type":"STRING"
+   },
+   {
+      "mode":"NULLABLE",
+      "name":"status",
+      "type":"STRING"
+   },
+   {
+      "mode":"NULLABLE",
+      "name":"total_bytes_inspected",
+      "type":"INTEGER"
+   }
+   
+   
+]
